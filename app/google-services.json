@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1071657574007",
+    "project_id": "padaria-da2cb",
+    "storage_bucket": "padaria-da2cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071657574007:android:48144f084146fcaaca7072",
+        "android_client_info": {
+          "package_name": "com.wladimirbr.backbakerourdream"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwmDqeevscMO2yLdpG-nUJfYPR0cvOHEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
